@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8785612cfc4dc3749b90b01a899e6b84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - platform: {fileID: 1412457833556708, guid: ecb9e2293414ae144990a4b0954f82e5, type: 2}
+  - diamonds: {fileID: 1085784857943408, guid: b5a8c981e9c25364c96fcf6ec454dfe3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
